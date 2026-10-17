@@ -1,6 +1,7 @@
 html {
   --color-accent: oklch(65% 50% 0);
   accent-color: var(--color-accent);
+  color-scheme: light dark;
 }
 
 body {
@@ -16,9 +17,11 @@ nav li {
 }
 
 nav {
+  --border-color: oklch(50% 10% 200 / 40%);
   display: flex;
   margin-bottom: 1em;
-  border-bottom: 1px solid oklch(80% 3% 200);
+  border-bottom: 1px solid;
+  border-bottom-color: var(--border-color);
 }
 
 nav a {
@@ -30,7 +33,8 @@ nav a {
 }
 
 nav a.current {
-  border-bottom: 0.4em solid oklch(80% 3% 200);
+  border-bottom: 0.4em solid;
+  border-bottom-color: var(--border-color);
   padding-bottom: 0.1em;
 }
 
@@ -41,8 +45,16 @@ nav a:hover {
 
 input,
 textarea,
-button {
+button,
+select {
   font: inherit;
+}
+
+.color-scheme {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 80%;
 }
 
 form {
