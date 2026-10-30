@@ -1,74 +1,74 @@
 [
   {
-    "title": "Lorem ipsum dolor sit.",
+    "title": "GroceryDB Expository Visualization",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&h=400&fit=crop",
+    "description": "A single static visualization for DSC 106 Project 1 made from GroceryDB, which has food products from Walmart, Target and Whole Foods. I cleaned the data in Python and wrote up every assumption I made about outliers and missing values."
+  },
+  {
+    "title": "Recipe Complexity and Ratings",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=600&h=400&fit=crop",
+    "description": "A DSC 80 project using the Food.com dataset of about 83,000 recipes and 731,000 reviews. It looks at whether recipes with more steps and ingredients get lower or higher ratings."
+  },
+  {
+    "title": "k-NN Digit Classifier",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&h=400&fit=crop",
+    "description": "Homework for DSC 140A where I wrote a k-nearest neighbors classifier in NumPy and tested it on the MNIST handwritten digits dataset."
+  },
+  {
+    "title": "Wholesaler Jewelry Store",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&h=400&fit=crop",
+    "description": "A direct-to-consumer jewelry storefront with a custom Next.js and TypeScript frontend on a headless Shopify backend. Shopify handles the catalog and checkout, and it accepts both card and crypto."
+  },
+  {
+    "title": "AdLevel",
     "year": "2025",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit maxime. Perspiciatis voluptates ullam ab nam nisi nobis quaerat fugit minus. Quod laudantium unde pariatur nihil incidunt cumque maxime error quisquam tempore."
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+    "description": "An AI tool that creates and launches Meta lead generation ad campaigns for small businesses, then tracks the results and adjusts the campaigns over time."
   },
   {
-    "title": "Possimus eum pariatur possimus.",
+    "title": "DocPassenger",
     "year": "2025",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Eos odit quisquam quod cum eveniet officiis accusantium. Excepturi tempore debitis mollitia delectus ut dolores. Ipsum fugit laudantium rerum vitae eligendi vel praesentium facilis eligendi. Vero quaerat accusantium magnam delectus."
+    "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+    "description": "A web platform for US daycare providers where parents fill out and e-sign enrollment PDF forms. When a new version of a government form comes out, it fills the new form from each child's existing data so parents do not have to type it again."
   },
   {
-    "title": "Aut omnis adipisci voluptatum.",
+    "title": "UCSD Course Catalog API",
     "year": "2025",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Delectus laudantium labore numquam neque. Unde suscipit vitae adipisci ullam debitis numquam reiciendis. Numquam nesciunt quisquam itaque omnis eveniet. Possimus labore ullam nobis excepturi labore maxime fugit quae nihil delectus."
+    "image": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=600&h=400&fit=crop",
+    "description": "A read-only REST API that serves UCSD course catalog data like departments, courses and sections, so students can build course planners without scraping."
   },
   {
-    "title": "Consectetur debitis nihil velit.",
+    "title": "Bitcoin Forecasting with LSTM",
     "year": "2025",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Neque aut amet perspiciatis nobis architecto ut reiciendis cumque odio. Eos incidunt exercitationem rerum alias. Labore dignissimos odio modi animi sunt velit. Exercitationem praesentium neque pariatur reiciendis non eveniet dolores."
+    "image": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=600&h=400&fit=crop",
+    "description": "An entry-level model that collects Bitcoin candle data into pandas and trains an LSTM with TensorFlow to predict where the market moves next."
   },
   {
-    "title": "Accusantium quasi eveniet animi.",
+    "title": "Discord Collage Maker",
     "year": "2024",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Labore eveniet quasi quaerat totam voluptates debitis. Ad ullam suscipit iure possimus obcaecati dignissimos reiciendis incidunt vitae molestias obcaecati. Labore voluptatum numquam ad exercitationem suscipit eos repellendus nam alias velit."
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&h=400&fit=crop",
+    "description": "A Python script that pulls images from a Discord channel with Discord.py and turns them into one collage with a single command."
   },
   {
-    "title": "Ipsum corrupti consectetur cumque.",
+    "title": "Trading News Discord Bot",
     "year": "2024",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Nesciunt dignissimos ea nisi ullam sunt modi itaque minus eligendi cum labore. Adipisci deleniti mollitia mollitia magnam quaerat. Vel laudantium quasi laborum adipisci molestias. Officiis omnis molestias architecto molestias laudantium."
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&h=400&fit=crop",
+    "description": "A Python Discord bot that turns trading news links into clean embed posts in a news channel with a .newspost command."
   },
   {
-    "title": "Repellendus facilis neque quasi.",
-    "year": "2024",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Nihil perspiciatis error ipsum ad. Omnis suscipit perferendis iure ea cumque fugit. Eveniet iure nobis officiis repellendus animi labore. Possimus deleniti non deleniti fuga sint velit nihil natus quaerat. Alias."
+    "title": "Walmart Restock Monitor",
+    "year": "2020",
+    "image": "https://images.unsplash.com/photo-1534723452862-4c874018d66d?w=600&h=400&fit=crop",
+    "description": "Watches the Walmart website for an item and sends a Discord alert when it comes back in stock. I made it during COVID-19 to help people find essentials like medicine and masks."
   },
   {
-    "title": "Labore error iure eveniet.",
-    "year": "2024",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Expedita consectetur fuga eos cumque ut repellendus. Sint perspiciatis iure perspiciatis excepturi praesentium dolores. Perspiciatis eos possimus numquam fuga excepturi ad cum dolores corrupti praesentium. Quod laudantium reiciendis itaque incidunt."
-  },
-  {
-    "title": "Voluptatum delectus possimus natus.",
-    "year": "2023",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Praesentium sunt atque quasi odio nesciunt vero ullam fugit odit rerum. Nihil ut vel molestias eveniet. Corrupti cum alias dolores sint earum possimus deleniti dignissimos excepturi possimus ullam. Quaerat vitae."
-  },
-  {
-    "title": "Cum laudantium quisquam sint.",
-    "year": "2023",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Vitae voluptates praesentium quae ut facilis. Exercitationem sint natus sunt omnis quasi corrupti ad. Eligendi mollitia eos atque nobis eveniet nihil expedita odit eos ut unde. Quae animi totam non."
-  },
-  {
-    "title": "Expedita alias delectus voluptatum.",
-    "year": "2023",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Vero dignissimos ad eligendi repellendus laudantium itaque reiciendis accusantium velit animi. Natus odit voluptatum cum assumenda quae voluptates atque natus. Nobis mollitia mollitia modi eveniet expedita corrupti possimus nobis facilis."
-  },
-  {
-    "title": "Molestias quod animi adipisci.",
-    "year": "2023",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "Nesciunt expedita error architecto praesentium voluptatum molestias mollitia. Suscipit cumque dignissimos officiis nihil suscipit nobis quae itaque numquam architecto. Nihil nesciunt perferendis magnam vitae perferendis exercitationem debitis. Odio praesentium dolores."
+    "title": "Twitter Monitor",
+    "year": "2020",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?w=600&h=400&fit=crop",
+    "description": "A Node.js bot that watches chosen Twitter accounts, reads text inside tweet images with OCR and sends new posts to Discord."
   }
 ]
