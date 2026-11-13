@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bikewatching",
+    "year": "2026",
+    "image": "https://paymentblocked.github.io/portfolio/images/bikewatching.png",
+    "url": "https://paymentblocked.github.io/bikewatching/",
+    "description": "A DSC 106 lab where I made an interactive Mapbox map of Bluebikes traffic in Boston and Cambridge from March 2024. Each station circle is sized by traffic and colored by whether it has more departures or arrivals, and a slider filters the trips by time of day."
+  },
+  {
     "title": "GroceryDB Expository Visualization",
     "year": "2026",
     "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&h=400&fit=crop",
